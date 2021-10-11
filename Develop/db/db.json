@@ -7,5 +7,10 @@
         "title": "Hello",
         "text": "World",
         "note_id": "47df"
+    },
+    {
+        "title": "Testing Save",
+        "text": "This note is saved",
+        "note_id": "d8c6"
     }
 ]
