@@ -26,8 +26,8 @@
 - (Deployed Application)
 
 ## Screenshots
-- ![Home Page of application](../Assets/Home-Page.PNG)
-- ![Notes taking page](../Assets/Notes-Page.PNG)
+- ![Home Page of application](/Assets/Home-Page.PNG)
+- ![Notes taking page](/Assets/Notes-Page.PNG)
 
 
     
