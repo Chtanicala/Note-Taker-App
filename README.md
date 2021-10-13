@@ -22,8 +22,9 @@
 - Christian Tanicala
 
 ## Links
-- https://github.com/Chtanicala/Note-Taker-App (Repository)
-- (Deployed Application)
+- https://github.com/Chtanicala/Note-Taker-App (Git Repository)
+- https://dashboard.heroku.com/apps/mysterious-retreat-27656 (Heroku Repo)
+- https://mysterious-retreat-27656.herokuapp.com/ (Deployed Application)
 
 ## Screenshots
 - ![Home Page of application](/Assets/Home-Page.PNG)
